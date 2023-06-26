@@ -4,7 +4,7 @@ A simple tool to regenerate a wallet (only non-deterministic supported right now
 
 ## Installation
 
-`go install github.com/thunderhead-labs/eth-wallet-pass-migrator`
+`go install github.com/thunderhead-labs/eth-wallet-pass-migrator@latest`
 
 ## Usage
 
